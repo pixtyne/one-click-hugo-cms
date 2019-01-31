@@ -1,6 +1,6 @@
 ---
 title: TITRE
-subtitle: Petit titre
+subtitle: ' '
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
