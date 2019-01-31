@@ -1,5 +1,5 @@
 ---
-title: À Propos
+title: Gestion de patrimoine
 image: /img/about-sustainable-farming.jpg
 heading: What we offer
 description: >-
@@ -97,4 +97,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
